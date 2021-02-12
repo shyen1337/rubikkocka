@@ -1,4 +1,4 @@
-body{
+body {
   background-color: #ededc1;
   background-size: 70px 70px;
   background-repeat: repeat-y;
@@ -6,24 +6,25 @@ body{
   padding: 15px 95px 15px 15px;
 }
 
-#cimkep{
+#cimkep {
   float:left;  
 }
 
-h1{
+h1 {
   margin: 40px 0px 100px 175px;
 }
 
-p{
+p {
   text-align: justify;
+    margin: 10px;
 }
 
 
-.jobbra{
+.jobbra {
   text-align: right;
 }
 
-.erdekesseg{
+.erdekesseg {
   font-size: 70%;
   padding: 7px;
   font-weight: normal;
