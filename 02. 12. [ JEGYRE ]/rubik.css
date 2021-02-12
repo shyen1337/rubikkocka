@@ -32,3 +32,7 @@ p{
 li{
   font-weight:bold;
 }
+
+body {
+    background-image: url(hatterkocka.png)
+}
